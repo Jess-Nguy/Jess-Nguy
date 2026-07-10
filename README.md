@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on URL shortener, Link tree, and Trivia Builder apps
 - 🌱 I’m currently learning advance Rust, Docker, Redis, and CI/CD pipelines
 - 💬 Ask me about Rust
-- ⚡ Fun fact: I like teaching about technologies I know and love using Notion to keep all my hobbies, and learning all organized. 
+- ⚡ Fun fact: I like talking about technologies, and ELI5. I love using Notion to keep all my hobbies, and learning all organized.
 - 📫 How to reach me: nguyjess@gmail.com
 - 😄 Pronouns: she/her
 
