@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on building CLI tools in Rust
-- 🌱 I’m currently learning advance Rust
+- 🔭 I’m currently working on URL shortener, Link tree, and Trivia Builder apps
+- 🌱 I’m currently learning advance Rust, Docker, Redis, and CI/CD pipelines
 - 💬 Ask me about Rust
 - ⚡ Fun fact: I like teaching about technologies I know and love using Notion to keep all my hobbies, and learning all organized. 
 - 📫 How to reach me: nguyjess@gmail.com
